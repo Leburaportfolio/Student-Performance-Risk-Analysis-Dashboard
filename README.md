@@ -110,3 +110,102 @@ CALCULATE(
     COUNTROWS(Students_Performance),
     Students_Performance[Risk Level] = "High Risk"
 )
+```
+
+## Risk Classification
+A custom risk classification was developed based on student performance relative to their target score.
+| Performance                                    | Risk Level        |
+| ---------------------------------------------- | ----------------- |
+| No valid score                                 | Insufficient Data |
+| 10 or more percentage points below target      | High Risk         |
+| Below target by less than 10 percentage points | Moderate Risk     |
+| Meets or exceeds target                        | Low Risk          |
+The classification was created using a calculated column in Power BI.
+
+## Key Insights
+### Science Requires Broad Intervention
+Science recorded:
+
+- The lowest average score at 70.44%
+- The highest percentage of students below target at 63.9%
+
+This suggests that Science represents the broadest area of academic concern.
+
+### English and Geography Have the Highest High-Risk Students
+| Subject     | High-Risk Students |
+| ----------- | -----------------: |
+| English     |                 16 |
+| Geography   |                 16 |
+| Science     |                 14 |
+| Mathematics |                 13 |
+| History     |                 11 |
+Although Science had the broadest performance challenge, English and Geography contained the highest number of students performing significantly below their individual targets.
+
+### More Than Half of Students Are Below Target
+
+Out of 500 student assessment records:
+
+283 were below target
+109 were on track
+105 were exceeding target
+3 had no score
+
+This means:
+
+**56.6% of students were performing below their individual targets.**
+
+## Dashboard Features
+
+The dashboard includes:
+
+- Interactive slicers for Subject, Term and Year Group
+- KPI cards
+- Average performance by subject
+- Student risk distribution
+- Risk distribution across subjects
+- Conditional formatting
+- Interactive subject comparison table
+- Reset Filters button using Power BI Bookmarks
+
+## Tools and Technologies
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modelling
+- Data Visualisation
+- Data Cleaning and Transformation
+
+## Key Skills Demonstrated
+- Exploratory Data Analysis
+- Data Cleaning
+- Data Validation
+- Power Query
+- DAX
+- Calculated Columns
+- Measures
+- KPI Development
+- Conditional Formatting
+- Data Storytelling
+- Dashboard Design
+- Risk Classification
+
+## Conclusion
+
+This project demonstrates how student assessment data can be transformed into actionable insights for education stakeholders.
+
+The dashboard helps identify:
+
+- Overall academic performance
+- Students at risk of underperformance
+- Subjects requiring intervention
+- Gaps between student performance and targets
+
+The analysis provides a data-driven foundation for prioritising academic interventions and supporting improved student outcomes.
+
+## Author
+
+### Lebura Olawale
+
+Data Analyst | Education Consultant | Mathematics Educator
+
+Connect with me on LinkedIn.
