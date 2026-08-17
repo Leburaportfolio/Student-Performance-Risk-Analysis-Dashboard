@@ -36,7 +36,9 @@ The analysis focuses on helping education stakeholders identify:
 
 ## Dashboard Preview
 
-![Student Performance & Risk Analysis Dashboard](INSERT-YOUR-DASHBOARD-IMAGE-LINK-HERE)
+![Student Performance & Risk Analysis Dashboard](INSERT-YOUR-DASHBO
+ARD-IMAGE-LINK-H<img width="590" height="329" alt="Student Dashboard" src="https://github.com/user-attachments/assets/14d2b8c5-aa17-421c-836c-a57e3254618c" />
+ERE)
 
 ## Business Problem
 
