@@ -1,5 +1,25 @@
 # Student Performance & Risk Analysis Dashboard
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Dashboard Preview](#dashboard-preview)
+- [Business Problem](#business-problem)
+- [Dataset](#dataset)
+- [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+- [Key Performance Indicators](#key-performance-indicators)
+- [DAX Calculations](#dax-calculations)
+- [Risk Classification](#risk-classification)
+- [Key Insights](#key-insights)
+  - [Science Requires Broad Intervention](#science-requires-broad-intervention)
+  - [English and Geography Have the Highest High-Risk Students](#english-and-geography-have-the-highest-high-risk-students)
+  - [More Than Half of Students Are Below Target](#more-than-half-of-students-are-below-target)
+- [Dashboard Features](#dashboard-features)
+- [Tools and Technologies](#tools-and-technologies)
+- [Key Skills Demonstrated](#key-skills-demonstrated)
+- [Conclusion](#conclusion)
+- [Author](#author)
+  
 ## Project Overview
 
 This project analyses student assessment data to identify academic performance trends, target achievement, and students requiring intervention.
